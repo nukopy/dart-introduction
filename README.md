@@ -23,6 +23,11 @@ dart --version
 Dart SDK version: 2.12.3 (stable) (Wed Apr 14 11:02:39 2021 +0200) on "macos_x64"
 ```
 
+## IDE settings
+
+- Visual Studio Code
+  - [Dart Code - Recommended Settings](https://dartcode.org/docs/recommended-settings/)
+
 ## Installation of Dart
 
 To get the Dart SDK, see [here](https://dart.dev/get-dart).
