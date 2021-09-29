@@ -7,20 +7,20 @@ My Dart Introduction
 - the Flutter SDK
 
 ```sh
-flutter --version
+$ flutter --version
 
-Flutter 2.0.5 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision adc687823a (11 days ago) • 2021-04-16 09:40:20 -0700
-Engine • revision b09f014e96
-Tools • Dart 2.12.3
+Flutter 2.5.1 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision ffb2ecea52 (12 days ago) • 2021-09-17 15:26:33 -0400
+Engine • revision b3af521a05
+Tools • Dart 2.14.2
 ```
 
 - the Dart SDK
 
 ```sh
-dart --version
+$ dart --version
 
-Dart SDK version: 2.12.3 (stable) (Wed Apr 14 11:02:39 2021 +0200) on "macos_x64"
+Dart SDK version: 2.14.2 (stable) (Wed Sep 15 12:32:06 2021 +0200) on "macos_x64"
 ```
 
 ## IDE settings
